@@ -1,0 +1,49 @@
+🟢 Tekst: Hei, jeg har fortsatt ikke mottatt pakken min. Hva skjer?
+  📌 Kategori : leveringsproblem
+  🔥 Prioritet: lav
+  🎭 Sentiment: nøytral
+
+🟢 Tekst: Produktet jeg fikk var feil størrelse. Hvordan bytter jeg det?
+  📌 Kategori : reklamasjon
+  🔥 Prioritet: normal
+  🎭 Sentiment: negativ
+
+🟢 Tekst: Fakturaen jeg fikk stemmer ikke med bestillingen.
+  📌 Kategori : fakturaspørsmål
+  🔥 Prioritet: høy
+  🎭 Sentiment: negativ
+
+🟢 Tekst: Hei! Når åpner butikken deres i morgen?
+  📌 Kategori : generell henvendelse
+  🔥 Prioritet: lav
+  🎭 Sentiment: nøytral
+
+🟢 Tekst: Skuffet over at varen sluttet å fungere etter bare én uke.
+  📌 Kategori : reklamasjon
+  🔥 Prioritet: høy
+  🎭 Sentiment: negativ
+
+🟢 Tekst: Takk for god hjelp i chatten i går, veldig fornøyd!
+  📌 Kategori : generell henvendelse
+  🔥 Prioritet: lav
+  🎭 Sentiment: positiv
+
+🟢 Tekst: Hei, jeg vurderer å bestille men lurer på om dere har varen på lager.
+  📌 Kategori : generell henvendelse
+  🔥 Prioritet: lav
+  🎭 Sentiment: nøytral
+
+🟢 Tekst: Jeg har blitt trukket dobbelt på kortet. Kan dere rydde opp?
+  📌 Kategori : fakturaspørsmål
+  🔥 Prioritet: høy
+  🎭 Sentiment: negativ
+
+🟢 Tekst: Tusen takk for rask levering! Alt var i orden.
+  📌 Kategori : generell henvendelse
+  🔥 Prioritet: lav
+  🎭 Sentiment: positiv
+
+🟢 Tekst: Det er gått tre uker og jeg har ikke fått pakken. Dette er ikke greit!
+  📌 Kategori : leveringsproblem
+  🔥 Prioritet: høy
+  🎭 Sentiment: negativ
